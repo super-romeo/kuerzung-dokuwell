@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuerzung.dokuwell.com/sitemap.xml
